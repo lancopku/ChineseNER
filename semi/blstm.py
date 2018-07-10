@@ -23,7 +23,7 @@ class model(object):
         if read_model:
             print ('reading model')
             flags=""
-            self.path_model_data=""
+            self.path_model_data="semi/"
             self.emb = pickle.load(open(self.path_model_data+flags+'model/'+'embeddings'+'.pkl', 'r'))
             self.A = pickle.load(open(self.path_model_data+flags+'model/'+'A'+'.pkl', 'r'))
             self.f0 = pickle.load(open(self.path_model_data+flags+'model/'+'f0'+'.pkl', 'r'))
