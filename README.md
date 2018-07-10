@@ -15,9 +15,9 @@ bash run_test.sh
 
 ## Cite
 To use this code, please cite the following paper:<br><br>
-Jingjing Xu, Hangfeng He, Xu Sun*, Xuancheng Ren, Sujian Li
-Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model 
-IEEE Transactions on Audio, Speech and Language Processing (TASLP) 2018
+Jingjing Xu, Hangfeng He, Xu Sun*, Xuancheng Ren, Sujian Li.
+Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model. 
+IEEE Transactions on Audio, Speech and Language Processing (TASLP) 2018.
 
 bibtext:
 ```
