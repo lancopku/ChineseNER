@@ -11,6 +11,7 @@ The processed data can be found at "data" folder. If you want to run our code on
 ```bash
 bash run_train.sh
 bash run_test.sh
+```
 
 ## Cite
 To use this code, please cite the following paper:<br><br>
