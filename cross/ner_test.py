@@ -54,7 +54,7 @@ if __name__ == '__main__':
     sys.stdout.flush()
     
     print 'load baseline predict data'
-    baseline_label = load_data("data/propcess/semi_test_pred.txt")
+    baseline_label = load_data("data/semi_test_pred.txt")
     for i in range(len(baseline_label)):
         for j in range(len(baseline_label[i])):
             if int(baseline_label[i][j])<=8:
