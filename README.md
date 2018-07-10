@@ -1,4 +1,4 @@
-# Chinese_NER
+# ChineseNER
 Code for "Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media:
 A Unified Model"
 ## Requirements
