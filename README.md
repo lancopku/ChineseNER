@@ -21,10 +21,10 @@ IEEE Transactions on Audio, Speech and Language Processing (TASLP) 2018.
 
 bibtext:
 ```
-@inproceedings{unpaired-sentiment-translation,
-  author    = {Jingjing Xu, Hangfeng He, Xu Sun, Xuancheng Ren, Sujian Li},
+@article{ChineseNER,
+  author    = {Jingjing Xu and Hangfeng He and Xu Sun and Xuancheng Ren and Sujian Li},
   title     = {Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model},
-  booktitle = {IEEE Transactions on Audio, Speech and Language Processing (TASLP)},
+  journal = {IEEE Transactions on Audio, Speech and Language Processing (TASLP)},
   year      = {2018}
 }
 ```
